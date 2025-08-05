@@ -10,7 +10,7 @@ This project analyzes U.S. hospital readmission rates to identify trends and key
 * Size: ~5,000 hospitals
 * Variables: Hospital ID, condition-specific readmission rates, state, penalties, etc.
 ## Questions Explored
-1. Which conditions have the highest readmission reates nationally?
+1. Which conditions have the highest readmission rates nationally?
 2. Are there geographic patterns in readmission rates?
 3. How do hospital penalties correlate with readmission performance?
 4. What insights can support reducing costs and improving patient outcomes?
