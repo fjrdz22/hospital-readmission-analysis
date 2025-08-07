@@ -19,10 +19,44 @@ This project analyzes U.S. hospital readmission rates to identify trends and key
 * Power Query (data cleaning & transformations)
 * GitHub (project documentation)
 ## Results (Preview)
-* results 1
-* results 2
-* results 3
-## Next Steps
-* results 1
-* results 2
-* results 3
+
+
+---
+### Hospital Readmissions Reduction Program (HRRP) Measures
+| **Code**                | **Condition / Procedure**                       | **Description**                                              |
+|-------------------------|-----------------------------------------------|--------------------------------------------------------------|
+| **READM-30-CABG-HRRP**  | Coronary Artery Bypass Graft (CABG)           | 30-day unplanned readmission after CABG surgery              |
+| **READM-30-COPD-HRRP**  | Chronic Obstructive Pulmonary Disease (COPD)  | 30-day readmission after hospitalization for COPD            |
+| **READM-30-AMI-HRRP**   | Acute Myocardial Infarction (Heart Attack)    | 30-day readmission after hospitalization for heart attack    |
+| **READM-30-HIP-KNEE-HRRP** | Hip and Knee Replacement (Elective)        | 30-day readmission after hip or knee replacement surgery     |
+| **READM-30-PN-HRRP**    | Pneumonia (PN)                                | 30-day readmission after treatment for pneumonia             |
+| **READM-30-HF-HRRP**    | Heart Failure (HF)                            | 30-day readmission after hospitalization for heart failure   |
+
+
+---
+
+### Key Performance Indicators
+![KPI Cards](3_visuals/charts/kpi_cards.png)
+- Avg Excess Readmission Ratio: **1.02**
+- Total Readmissions: **560,000+**
+- Highest Ratio Condition: **Heart Failure**
+- Lowest Ratio Condition: **Joint Replacement**
+
+---
+
+### Excess Ratio by Condition
+![Bar Chart](3_visuals/charts/readmission_by_condition.png)<br>
+Heart Failure and Pneumonia have the highest excess readmission ratios, indicating target areas for improvement and cost risk reduction.
+
+---
+
+### State-Level Readmission Patterns
+![Heat Map](3_visuals/charts/state_map_excess_ratio.png)<br>
+States in the Southeast and Midwest show higher average excess ratios, with some variation likely tied to hospital capacity and condition-specific performance.
+
+---
+
+### Variance: Predicted vs Expected Rates
+![Variance Chart](3_visuals/charts/variance_by_condition.png)<br>
+Chronic Obstructive Pulmonary Disease (COPD) and Coronary Artery Bypass Graft (CABG) procedures show the largest predicted-over-expected variance, suggesting systemic underperformance relative to CMS benchmarks.
+
