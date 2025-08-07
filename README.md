@@ -73,3 +73,20 @@ This analysis highlights how even small improvements in hospital readmission rat
 By leveraging Excel and Power Query, I was able to transform raw CMS data into actionable insights that hospital administrators, healthcare consultants, or public policy analysts could use to inform strategic decisions.
 
 This project demonstrates not just technical skills in data preparation and visualization, but also the ability to frame healthcare performance challenges in a way that supports real-world improvements.
+
+---
+## What I Learned
+
+This project sharpened my ability to work with large, real-world healthcare datasets and transform them into insights that matter. Specifically, I:
+
+- Practiced **data cleaning and transformation** using Power Query, including filtering, renaming, and creating calculated fields.
+- Used **Excel PivotTables and charts** to explore key performance metrics like excess readmission ratios, predicted vs. expected outcomes, and geographic trends.
+- Designed **KPI cards and comparative visuals** to highlight high-risk conditions and underperforming regions.
+- Strengthened my ability to **translate raw data into actionable business insights**, especially in the context of cost management and quality improvement in healthcare.
+- Developed a more intuitive sense for **data storytelling**—from understanding the problem to structuring analysis, and finally visualizing outcomes clearly for decision-makers.
+
+This project also reinforced the importance of reproducibility and version control using GitHub, laying the groundwork for deeper analytics and dashboarding projects going forward.
+
+---
+Thanks for reading,
+FJR
