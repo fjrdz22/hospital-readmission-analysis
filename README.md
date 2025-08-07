@@ -60,3 +60,12 @@ States in the Southeast and Midwest show higher average excess ratios, with some
 ![Variance Chart](3_visuals/charts/variance_by_condition.png)<br>
 Chronic Obstructive Pulmonary Disease (COPD) and Coronary Artery Bypass Graft (CABG) procedures show the largest predicted-over-expected variance, suggesting systemic underperformance relative to CMS benchmarks.
 
+---
+
+## Conclusion
+
+This analysis highlights how even small improvements in hospital readmission rates can have a significant financial and operational impact. Conditions like **Heart Failure**, **Pneumonia**, and **COPD** consistently show higher-than-expected readmissions, suggesting a need for focused intervention strategies. State-level patterns also reveal **regional disparities**, underscoring the importance of benchmarking and tailored resource allocation.
+
+By leveraging Excel and Power Query, I was able to transform raw CMS data into actionable insights that hospital administrators, healthcare consultants, or public policy analysts could use to inform strategic decisions.
+
+This project demonstrates not just technical skills in data preparation and visualization, but also the ability to frame healthcare performance challenges in a way that supports real-world improvements.
